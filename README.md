@@ -20,6 +20,10 @@ What to do for knowlege transfer event?
 
 ## Resources
 
-Some snake oil company selling the cure all agile thing:
+Some snake oil company selling agile development as the cure all agile thing:
 
 https://www.versionone.com/
+
+The manifesto that started this mess:
+
+http://agilemanifesto.org/

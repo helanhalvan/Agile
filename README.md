@@ -35,3 +35,7 @@ https://www.versionone.com/
 The manifesto that started this mess:
 
 http://agilemanifesto.org/
+
+Somebody that does not like this "agile thing":
+
+https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/

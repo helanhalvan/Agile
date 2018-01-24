@@ -8,6 +8,8 @@ What are the overheads?
 
 What does it help with?
 
+How does it scale to large projects?
+
 ## Comparative Analisys 
 
 How does it compare to traditional ways of mangeing things techiniques?

@@ -39,3 +39,5 @@ http://agilemanifesto.org/
 Somebody that does not like this "agile thing":
 
 https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
+
+https://www.versionone.com/agile-101/agile-methodologies/

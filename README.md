@@ -1,9 +1,5 @@
 # Agile Project for 1DL251
 
-## Comparative Analisys 
-
-How does it compare to traditional ways of mangeing things techiniques?
-
 ## Knowlage transfer event
 
 What to do for knowledge transfer event?

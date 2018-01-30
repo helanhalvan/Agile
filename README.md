@@ -1,15 +1,5 @@
 # Agile Project for 1DL251
 
-## Questions
-
-What does aglie development techiniques add to a software development projects?
-
-What are the overheads?
-
-What does it help with?
-
-How does it scale to large projects?
-
 ## Comparative Analisys 
 
 How does it compare to traditional ways of mangeing things techiniques?

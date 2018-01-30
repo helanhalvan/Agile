@@ -31,3 +31,9 @@ https://www.versionone.com/agile-101/agile-methodologies/
 Course books related videos
 
 http://iansommerville.com/software-engineering-book/videos/agile-methods/
+
+Agile is Dead
+
+https://www.youtube.com/watch?v=a-BOSpxYJ9M
+
+One of the authors of the manifesto for agile stuff talks about how agile is in many cases.

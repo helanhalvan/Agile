@@ -10,7 +10,7 @@ Another iteractive knowledge transer is to have like a case which the audience c
 
 ## Assessment
 
-All students will recieve a paper with some statements about agile methods and what we talked about, they will then choose if the statement is true or false. This is one part of the individual assessment. Second students will be randomly assigned into groups and we will run a quiz about agile methodology where the winner will have a small price. Teams will hand in their answers and get a second assessment as a group that reflects on their individual score.
+All students will recieve a paper with some statements about agile methods and what we talked about, they will then choose if the statement is true or false. This is one part of the individual assessment. Secondly, students will be randomly assigned into groups and we will run a quiz about agile methodology where the winner will have a small price. Teams will hand in their answers and get a second assessment as a group that reflects on their individual score.
 
 ## Resources
 

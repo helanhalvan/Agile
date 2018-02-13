@@ -1,0 +1,99 @@
+Got some answers from Tomas (he marked some question unclear, maybe we should rethink them?): 
+
+##Background
+
+How did you get started with working agile?
+
+In 2001, working as a consultant, I heard about the method XP (eXtreme Programming) and we tried it out in a small in-house project (meaning that we did the whole system at our place, compared to sitting at a custormers office developing parts of their software). Back then, XP was more known than Scrum.
+
+What type of agile are you working in right now? 
+
+[unclear] Do you mean wich sort of method/framework I am working with? If so, my answer is that I use most of the basics from Scrum but always adapted in some way (so never exactly according to Scrum). Often, the adaption is to use parts from Kanban and XP, other times from the larger framework SAFe (Scaled Agile Framework).
+
+Which one do you prefer?
+
+[unclear] Guess you mean what method I prefer? Can't really give a good answer to that since it is often based on the situation. But often, Scrum is the basis.
+
+What does a typical agile work day look like?
+
+An hour of fixing stuff, answering e-mails etc than Stand-up-meeting at 9 to 9.15, depending on if someone needs help I coach and discuss difficulties and at the end of the day try to wrap up what I need to do the next day. 
+
+What tools/software are you using for agile stuff?
+
+[unclear] Do you mean for planning/follow-up? Often Trello if I don't use physical boards on the wall.
+
+##When does it work?
+
+What are the 3 best things about agile development?
+
+- Transparency, I know who is doing what
+
+- Customer involvement, makes it easier to know I am doing the right thing
+
+- Team spirit
+
+##When does it break?
+
+What are the 3 worst things about agile development?
+
+- Trying to deal with "the rest" - managers, customers who are NOT agile. 
+
+- Hard to get everyone on "the train", some people don't like to be that transparent
+
+- Sometimes to get personal responsibility. Teamwork is great but some people "use" it to not being personally responsible
+
+When does agile work poorly?
+
+- When the culture is that you are afraid to fail. A hierarchical environment were people gets blamed for trying something outside the box
+
+What is the largest team you have had a agile project with?
+
+[unclear] Do your mean organization? Cause often, teams are never more than roughly 10 people but sometimes you have several teams working together. At an automotive company I worked with, there were 15 teams of roughly size 6-7 people per team.
+
+What about documentation? Are you putting a lot of effort into documentation?
+
+Not enough sometimes. Depends a lot on the situation. If there is a good auto-test-environment, documentation isn't as necessary.
+
+Are you working with people abroad and different time zones? How is that working with the daily scrum meetings?
+
+Yes, it actually works quite fine. You have to find a good time that fits all but otherwise, it works.
+
+Have you been working with software maintenance while using a agile method, how did it go?
+
+Yes and than we usually do most Kanban
+
+Do you have the Scrum roles?
+
+Scrum master
+
+Yes
+
+Product Owner
+
+Yes
+
+Development team
+
+Yes
+
+How separated is testing from development?
+
+Almost never separated. Normally always in the same team and often automated
+
+## Questions specific to Tomas
+
+What does agile development techniques add to a software development projects?
+
+I would say it add adds transparency etc (the good stuff I mentioned above)
+
+How does it scale to large projects? Have you been working with bigger projects while using an agile method?
+
+Yes, at three different organizations they have implemented SAFe and it actually works quite alright even if it is hard. The problem is to not "strangle" development teams, to have a balance between management and freedom to the teams.
+
+Agile methods seems pretty good for new software development, but not too good with software maintenance, why? Lack of documentation?
+
+I would disagree. Often it works well in maintenance as well but even better is to make teams with both developers and maint. Often called DevOps (look it up ;-))
+
+Follow up question to the previous one: Have you been working with software maintenance while using a agile method, if yes how did it go?
+
+See answer above

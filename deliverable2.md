@@ -5,7 +5,7 @@ Seminar plan in chronological order:
 ## Introduction to seminar plan
 5 minutes 
 
-This plan but in some spoken reduced form. We will ask all students to seat in their project groups.
+This plan but in some spoken reduced form. We will ask all students to sitt in their project groups.
 
 ## Topics
 15 minutes/topic

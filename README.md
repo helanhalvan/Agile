@@ -43,3 +43,6 @@ https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban
 
 Information about Scrum:
 http://www.scrumguides.org/
+
+More info on Kanban:
+https://www.atlassian.com/agile/kanban

@@ -37,3 +37,9 @@ Agile is Dead
 https://www.youtube.com/watch?v=a-BOSpxYJ9M
 
 One of the authors of the manifesto for agile stuff talks about how agile is in many cases.
+
+Soruce which talks about kanban (and differences between scrum and kanban):
+https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban
+
+Information about Scrum:
+http://www.scrumguides.org/
